@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(35, 69, 69);
+}
+c {
+  color: #ffff;
+    font-size: 30px;
+}
+A {
+  color: #faff;
+}
+
+img {
+  border-radius: 50%;
+}
+
+#nonround{
+
+  border-radius: 0%;
+  
+}
+
